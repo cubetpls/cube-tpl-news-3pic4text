@@ -1,0 +1,15 @@
+{
+	"version": "1.0.0",
+	"name": "资讯模板3",
+	"ie": 8,
+	"miniapp_only": false,
+	"disable_expand": false,
+	"launchimg": "assets/launchimg.png",
+	"files": [
+		"cube.tpl",
+		"cube.css",
+		"cube.js",
+		"assets/launchimg.png"
+	],
+	"id": "6oLMtddLDu"
+}
